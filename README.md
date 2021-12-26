@@ -1,2 +1,2 @@
 # BUR-AUV
-UCLA ASME: Bruin Underwater Robotics AUV
+_UCLA ASME: Bruin Underwater Robotics AUV_
