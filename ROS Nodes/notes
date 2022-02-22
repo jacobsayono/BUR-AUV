@@ -1,4 +1,4 @@
-catkin_make	&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; make folder into a workspace. also later to make sure everything is compiled
+catkin_make                                     make folder into a workspace. also later to make sure everything is compiled
 source devel/setup.bash				                  sourcing your workspace. this updates your enviroment variables so ROS understands what you're working on
 chmod +x src/turtlebot_tut/scripts/faxer.py	    python files created on linux are not runnable by default. this command tells linux that these are runnable files.
 chmod +x src/turtlebot_tut/scripts/printer.py 	to make a program executable and find them. chmod = change permissions. +x = make it executable. then find path to faxer and printer
